@@ -1,9 +1,0 @@
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\bin\Debug\SoundRecognition.exe.config
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\bin\Debug\SoundRecognition.exe
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\bin\Debug\SoundRecognition.pdb
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\obj\Debug\SoundRecognition.csprojResolveAssemblyReference.cache
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\obj\Debug\SoundRecognition.Form1.resources
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\obj\Debug\SoundRecognition.Properties.Resources.resources
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\obj\Debug\SoundRecognition.csproj.GenerateResource.Cache
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\obj\Debug\SoundRecognition.exe
-c:\users\phuong\documents\visual studio 2015\Projects\SoundRecognition\SoundRecognition\obj\Debug\SoundRecognition.pdb
